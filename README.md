@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Greg ada dulskivinovich
+- 👋 Hi, I’m Greg aka dulskivinovich
 - 👀 I’m interested in software, full stack development, architecture, Angular, web services, God, family, running, hydroponics 
 - 🌱 I’m currently learning RabbitMQ and AWS MQ, hydroponics NFT and Ebb & Flow
 - 💞️ I’m looking to collaborate on Angular, AWS, Hydroponics
